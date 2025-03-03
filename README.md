@@ -1,2 +1,2 @@
-# cvLab-Group.github.io
+# cvLab-Group
 Computer Vision Lab
